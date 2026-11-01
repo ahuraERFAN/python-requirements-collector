@@ -1,0 +1,17 @@
+# Generated reports (may contain private project names/paths)
+all_reqs.txt
+install_checklist.txt
+install_log.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
